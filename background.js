@@ -2,7 +2,7 @@ chrome.alarms.onAlarm.addListener(function() {
   chrome.browserAction.setBadgeText({text: ''});
   chrome.notifications.create({
       type:     'basic',
-      iconUrl:  'images/get_started16.png',
+      iconUrl:  'images/breaktime128.png',
       title:    'Break is Over',
       message:  'Ughh... already??',
       buttons: [

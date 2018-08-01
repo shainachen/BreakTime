@@ -17,4 +17,5 @@ function clearAlarm() {
 document.getElementById('sampleSecond').addEventListener('click', setAlarm);
 document.getElementById('5min').addEventListener('click', setAlarm);
 document.getElementById('10min').addEventListener('click', setAlarm);
+document.getElementById('15min').addEventListener('click', setAlarm);
 document.getElementById('cancelAlarm').addEventListener('click', clearAlarm);

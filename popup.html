@@ -14,10 +14,15 @@
       button {
         margin: 5px;
         outline: none;
+        padding: 10px 24px;
+        background-color: white;
+        transition-duration: 0.4s;
+        border-radius: 4px;
       }
 
       button:hover {
-        outline: #80DEEA dotted thick;
+        background-color: #4CAF50; /* Green */
+        color: white;
       }
     </style>
  
@@ -27,6 +32,7 @@
       <button id='sampleSecond' value='0.1'>Sample Second</button>
       <button id='5min' value='5'>5 Minutes</button>
       <button id='10min' value='10'>10 Minutes</button>
+      <button id='15min' value='15'>15 Minutes</button>
       <button id='cancelAlarm'>Cancel Alarm</button>
    <script src="popup.js"></script>
   </body>
