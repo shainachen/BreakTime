@@ -12,9 +12,9 @@ The user starts their break by selecting a time in the popup menu.
 
 Then, the user will be reminded with a notification when their break is over.
 
-
-![Example Notification](images/notification.png)
-
+<p align="center">
+  <img width="500" height="100" src="images/notification.png">
+</p>
 
 The user can click `Close` or ignore the notification for it to disappear. The user can also choose to extend their break by clicking `More` and then `Extend break`.
 
