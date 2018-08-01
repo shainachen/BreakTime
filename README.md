@@ -5,7 +5,7 @@ This simple Google Chrome extension allows the user to select a duration of time
 ## How It Works
 The user starts their break by selecting a time in the popup menu.
 
-![Example Page Popup Menu](images/twitter.png)
+![Example Page Popup Menu](images/breaktimecloseup.png)
 
 Then, the user will be reminded with a notification when their break is over.
 
