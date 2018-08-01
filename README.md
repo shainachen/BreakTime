@@ -18,8 +18,9 @@ Then, the user will be reminded with a notification when their break is over.
 
 The user can click `Close` or ignore the notification for it to disappear. The user can also choose to extend their break by clicking `More` and then `Extend break`.
 
-
-![Example Notification](images/extendbreak.png)
+<p align="center">
+  <img width="400" height="100" src="images/extendbreak.png">
+</p>
 
 ## Project Info
 
